@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/smartsla/",
+  base: "/",
   title: "SmartSLA",
   themeConfig: {
     nav: [
