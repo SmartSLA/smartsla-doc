@@ -1,0 +1,15 @@
+image: node:10
+
+stages:
+  - deploy
+
+deploy_docs:
+  stage: deploy
+  only:
+    refs:
+      - master
+  image: node:10
+  script:
+    - npm install
+    - npm run docs:build
+    - sh deploy.sh
