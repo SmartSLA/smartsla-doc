@@ -7,7 +7,7 @@ set -e
 npm run docs:build
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+cd .vuepress/dist
 
 git config --global user.name "CI Bot"
 git config --global user.email "bot@linagora.com"

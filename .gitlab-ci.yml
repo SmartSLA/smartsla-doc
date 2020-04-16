@@ -11,5 +11,4 @@ deploy_docs:
   image: node:10
   script:
     - npm install
-    - npm run docs:build
     - sh deploy.sh
