@@ -1,6 +1,17 @@
 {
+  "name": "smartsla-docs",
+  "version": "1.0.0",
+  "description": "documentation of the smartsla project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartSLA/smartsla-doc.git"
+  },
+  "homepage": "https://smartsla.github.io/",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.4.1"
   }
 }
