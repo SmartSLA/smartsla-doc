@@ -141,6 +141,23 @@ voici les étapes requises pour installer SmartSLA après avoir installé OpenPa
   email: admin@open-paas.org
   mot de passe: secret
   ```
+
+### Tutoriel vidéo
+
+  ![SmartSLA guides](/assets/img/smartsla_fr_playlist.png)
+
+#### [Playlist SmartSLA : les tutos](https://www.youtube.com/playlist?list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 1 SmartSLA : Connexion à la solution et présentation de l'ergonomie de SmartSLA](https://www.youtube.com/watch?v=EjxUVHhaQis&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 2 SmartSLA : Fonctionnalités disponibles pour les experts en charge du support](https://www.youtube.com/watch?v=tGEGEUGX0bw&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 3 SmartSLA : Présentation des fonctionnalités disponibles pour les experts en charge du support](https://www.youtube.com/watch?v=zIhoOgzASQ4&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 4 SmartLSA : création d'un logiciel dans le catalogue de logiciels de la plateforme de support](https://www.youtube.com/watch?v=VhLX6MEuP9g&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 5 SmartSLA : Affectation de logiciels dans le périmètre d'un contrat de support](https://www.youtube.com/watch?v=-8JhOZbbH8w&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 6 SmartSLA : Paramétrage des niveaux de services d'un contrat de support](https://www.youtube.com/watch?v=1kkrLAryMdg&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 7 SmartSLA : Création d'un ticket d'anomalie par le bénéficiaire d'un contrat](https://www.youtube.com/watch?v=beJ5MXeeoBI&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 8 SmartSLA : Affectation et prise en charge d'un ticket par un expert du support](https://www.youtube.com/watch?v=FlpeDezFVSQ&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 9 SmartSLA : Traitement du ticket et résolution avec production d'un patch](https://www.youtube.com/watch?v=heWP3LxvklA&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+  - [Tuto 10 SmartSLA : Clôture du ticket par le bénéficiaire](https://www.youtube.com/watch?v=a42BpUT-pxI&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+
 ### avant de commencer
 
 #### Création d'un logiciel, d'un client et d'un contrat
