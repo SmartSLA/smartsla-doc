@@ -37,6 +37,19 @@ git clone https://github.com/smartsla/smartsla-docker-dev.git
 # then
 cd smartsla-docker-dev
 ```
+### Generate JWT keys
+
+You can generate JWT keys using the following command:
+
+```bash
+./assets/jwt-keys/init.jwt.sh gen-jwt-keys <subject>
+# usage: gen-jwt-keys <subject>
+#        subject format : /C=FR/ST=French/L=Paris/O=Linagora/CN=smartsla.org
+# examples: gen-jwt-keys /C=FR/ST=French/L=Paris/O=Linagora/CN=smartsla.org
+```
+
+## How to use
+
 ### chose the part of the platform you want to run
 By default, the `docker-compose` command will look for a file named `docker-compose.yml` in the current directory. In this repository, this will start the basic common services needed for a SmartSLA (LDAP, OpenPaaS...) but will not start the whole platform, so you will be missing most interfaces and applications.
 
@@ -60,8 +73,8 @@ You are now all set!
 You can now use all the commands provided by the `docker-compose` tool.
 See: https://docs.docker.com/compose/reference/
 
-To access the platform, check the URL set up in section [Vhosts declaration](#vhosts-declaration).
-Test user accounts are in the file `users.created.txt`.
+*To access the platform, check the URL set up in section [Vhosts declaration](#vhosts-declaration).*
+*Demo user accounts are in the `users.created.txt` file.*
 
 ### Basic docker-compose survival commands
 
@@ -305,6 +318,12 @@ You can connect with the default admin user :
 Username: admin@open-paas.org
 Password: secret
 ```
+*Don't forget to promote admin user as a SmartSLA admin*
+Go to the [administration page](http://frontend.smartsla.local/administration/) and log in as admin
+Select **Roles** &rarr; **edit**
+  - In **Users** choose the  **admin**
+  - Hit **Add**
+
 
 You can also log in as any other demo user, user accounts are in the file `users.created.txt`.
 

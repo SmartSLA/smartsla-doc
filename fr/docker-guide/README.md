@@ -1,4 +1,4 @@
-# Using SmartSLA with docker
+# Utilisation de SmartSLA avec docker
 
 ## Aperçu
 
@@ -36,6 +36,18 @@ git clone https://github.com/smartsla/smartsla-docker-dev.git
 # aprés
 cd smartsla-docker-dev
 ```
+### Générer des clés JWT
+
+Vous pouvez générer des clés JWT à l'aide de la commande suivante:
+
+```bash
+./assets/jwt-keys/init.jwt.sh gen-jwt-keys <subject>
+# usage: gen-jwt-keys <subject>
+#        subject format : /C=FR/ST=French/L=Paris/O=Linagora/CN=smartsla.org
+# examples: gen-jwt-keys /C=FR/ST=French/L=Paris/O=Linagora/CN=smartsla.org
+```
+
+## Comment utiliser
 ### choisir la partie de la plateforme que vous souhaitez exécuter
 Par défaut, la commande `docker-compose` recherchera un fichier nommé `docker-compose.yml` dans le répertoire courant. Dans ce dépôt, cela démarrera les services communs de base nécessaires pour un SmartSLA (LDAP, OpenPaaS ...) mais ne démarrera pas la plate-forme entière, donc vous manquerez la plupart des interfaces et des applications.
 
@@ -306,5 +318,11 @@ Vous pouvez vous connecter avec l'utilisateur administrateur par défaut:
 Nom d'utilisateur: admin@open-paas.org
 Mot de passe: secret
 ```
+
+*N'oubliez pas de promouvoir l'utilisateur administrateur en tant qu'administrateur SmartSLA*
+Accédez à la [page d'administration](http://frontend.smartsla.local/administration/) et connectez-vous en tant qu'administrateur
+Sélectionnez **Rôles** &rarr; **edit**
+  - Dans **Utilisateurs** choisissez **admin**
+  - Appuyez sur **Ajouter**
 
 Vous pouvez également vous connecter en tant que n'importe quel autre utilisateur de démo, les comptes d'utilisateurs sont dans le fichier `users.created.txt`.

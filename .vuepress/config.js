@@ -4,8 +4,12 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "Docker guide", link: "/guide/docker" },
+      { text: "Guides",
+        items: [
+          { text: "installation and configuration guide", link: "/guide/" },
+          { text: "Docker guide", link: "/docker-guide/" }
+        ]
+      },
       { text: "GitHub", link: "https://github.com/SmartSLA" }
     ],
     sidebar: "auto",
@@ -18,8 +22,13 @@ module.exports = {
         selectText: 'langues',
         nav: [
           { text: "Acceuil", link: "/fr/" },
-          { text: "Guide", link: "/fr/guide/" },
-          { text: "Guide docker", link: "/fr/guide/docker" },
+          {
+            text: "Guides",
+            items: [
+              { text: "Guide d'installation et configuration", link: "/fr/guide/" },
+              { text: "Guide docker", link: "/fr/docker-guide/" }
+            ]
+          },
           { text: "GitHub", link: "https://github.com/SmartSLA" }
         ]
       }
