@@ -10,7 +10,9 @@ Cela consiste en:
 
 ## Installation
 
-voici les étapes requises pour installer SmartSLA après avoir installé OpenPaas
+voici les étapes requises pour installer SmartSLA après avoir installé OpenPaas.
+
+vous pouvez également utiliser SmartSLA avec `docker`, voir la documentation [ici](docker)
 
 ### 1. installation du composant backend
   `$ ESN_PATH` est votre chemin d'installation openpaas

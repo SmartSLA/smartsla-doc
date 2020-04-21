@@ -11,7 +11,9 @@ it consists of:
 
 ## Installation
 
-here are the steps required to install SmartSLA after you have installed OpenPaas
+here are the steps required to install SmartSLA after you have installed OpenPaas.
+
+you can also use SmartSLA with `docker`, see documentation [here](docker)
 
 ### 1. install the backend component
 
