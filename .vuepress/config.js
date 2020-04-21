@@ -29,11 +29,11 @@ module.exports = {
   locales: {
     '/': {
       lang: "en-US",
-      description: "OpenPaas Ticketing module"
+      description: "Dedicated to manage customer support tickets"
     },
     '/fr/': {
       lang: 'fr-FR',
-      description: 'Module de ticketing OpenPaas'
+      description: 'Dédié à la gestion des tickets de support client'
     }
   }
 };
