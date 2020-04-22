@@ -1,5 +1,6 @@
 module.exports = {
   base: "/",
+  title: "SmartSLA",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
