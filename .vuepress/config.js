@@ -1,6 +1,5 @@
 module.exports = {
   base: "/",
-  title: "SmartSLA",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
@@ -21,7 +20,8 @@ module.exports = {
           { text: "GitHub", link: "https://github.com/SmartSLA" }
         ]
       }
-    }
+    },
+    logo: '/assets/img/SmartSLA-logo.png'
   },
   markdown: {
     lineNumbers: true
@@ -35,5 +35,10 @@ module.exports = {
       lang: 'fr-FR',
       description: 'Dédié à la gestion des tickets de support client'
     }
-  }
+  },
+  head: [
+    [
+      'link', { rel: 'icon', href: '/favicon.ico' }
+    ]
+  ],
 };
