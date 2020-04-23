@@ -235,3 +235,8 @@ voici les étapes requises pour installer SmartSLA après avoir installé OpenPa
 |                       |      Supprimer     |                                    |                  X                 |     X    |         |       ✓       |        X       |
 |                       |                 |                                    |                                    |          |         |               |                |
 |        Profile        | Obtenez propre profil|                                    |                  ✓                 |     ✓    |         |       ✓       |        ✓       |
+
+<div align="center" class="footer">
+  <img src="/assets/img/linagora.png" />
+  <p>© SmartSLA - Developé et supporté par Linagora, 2019-2020.</p>
+</div>
