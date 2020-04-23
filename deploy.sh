@@ -9,6 +9,9 @@ npm run docs:build
 # navigate into the build output directory
 cd .vuepress/dist
 
+# if you are deploying to a custom domain
+echo 'smartsla.org' > CNAME
+
 git config --global user.name "CI Bot"
 git config --global user.email "bot@linagora.com"
 
