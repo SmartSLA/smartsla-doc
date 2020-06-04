@@ -56,7 +56,7 @@ voici les étapes requises pour installer SmartSLA après avoir installé OpenPa
 
   - lancer le serveur de développement
   ```bash
-  npm run server
+  npm run serve
   ```
 
   - en supposant qu'OpenPaas est déjà en cours d'exécution, le SmartSLA devrait être exécuté sur `http://localhost:8081`
