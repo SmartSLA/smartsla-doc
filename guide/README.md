@@ -9,9 +9,22 @@ it consists of:
 - frontend app built using VueJS.
 - OpenPaaS component as backend, built using nodeJS.
 
+## Supported Browsers
+
+| Browsers        | Supported           |
+| ------------- |:-------------:| -----:|
+| <img  class="imgTable"  src="/assets/img/chrome.jpeg" />    Chrome     | ✓ |
+| <img  class="imgTable"  src="/assets/img/firefox.jpeg" />  Firefox     | ✓| 
+| <img  class="imgTable"  src="/assets/img/safari.jpeg" />   Safari    | ✓ | 
+| <img  class="imgTable"  src="/assets/img/ie11.png" />   IE11 | ✓ |  
+
+
 ## Installation
 
 here are the steps required to install SmartSLA after you have installed OpenPaas
+
+
+
 
 ### 1. install the backend component
 
@@ -228,7 +241,12 @@ here are the steps required to install SmartSLA after you have installed OpenPaa
 |                       |                 |                                    |                                    |          |         |               |                |
 |        Profile        | Get own profile |                                    |                  ✓                 |     ✓    |         |       ✓       |        ✓       |
 
+
+
+
+
 <div align="center" class="footer">
   <img src="/assets/img/linagora.png" />
   <p>© SmartSLA - Developed and supported by Linagora, 2019-2020.</p>
 </div>
+

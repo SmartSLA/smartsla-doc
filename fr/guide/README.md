@@ -8,6 +8,17 @@ Cela consiste en:
 - application frontend construite en utilisant VueJS.
 - Composant OpenPaaS en tant que backend, construit en utilisant nodeJS.
 
+
+## Navigateurs supportés
+
+| Navigateurs        | Supporté           |
+| ------------- |:-------------:| -----:|
+| <img  class="imgTable"  src="/assets/img/chrome.jpeg" />    Chrome     | ✓ |
+| <img  class="imgTable"  src="/assets/img/firefox.jpeg" />  Firefox     | ✓| 
+| <img  class="imgTable"  src="/assets/img/safari.jpeg" />   Safari    | ✓ | 
+| <img  class="imgTable"  src="/assets/img/ie11.png" />   IE11 | ✓ |  
+
+
 ## Installation
 
 voici les étapes requises pour installer SmartSLA après avoir installé OpenPaas
