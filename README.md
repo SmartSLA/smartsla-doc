@@ -26,7 +26,7 @@ heroImage: /assets/img/SmartSLA_en.png
   <div class="feature">
     <h2>LICENSE & AGREEMENTS</h2>
     <p>
-    <a href="#">Contributor agreement</a>
+    <a href="assets/SmartSla-CLA-EN.pdf">Contributor agreement</a>
     </p>
     <p>
     <a href="https://github.com/SmartSLA/smartsla-doc/blob/master/LICENSE">AGPL V3 License</a>
