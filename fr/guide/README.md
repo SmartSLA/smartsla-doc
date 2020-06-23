@@ -8,6 +8,20 @@ Cela consiste en:
 - application frontend construite en utilisant VueJS.
 - Composant OpenPaaS en tant que backend, construit en utilisant nodeJS.
 
+
+## Navigateurs supportés
+SmartSLA utilise la bibliothéque d'interface utilisateur Vuetify qui est basé sur vue CLI version 3 ,vous n'êtes pas obligé d'ajouter les polyfills pour supporter Internet EXplorer 11 et Safari 9/10 .
+C'est généréré automatiquement pour vous. 
+
+| Navigateurs        | Supporté           |
+| ------------- |:-------------:| -----:|
+| <img  class="imgTable"  src="/assets/img/chrome.jpeg" />    Chrome     | ✓ |
+| <img  class="imgTable"  src="/assets/img/firefox.png" />  Firefox     | ✓| 
+| <img  class="imgTable"  src="/assets/img/safari.jpeg" />   Safari  10+  | ✓ | 
+| <img  class="imgTable"  src="/assets/img/edge.png" />   Edge | ✓ |  
+| <img  class="imgTable"  src="/assets/img/ie11.png" />   IE11 | ✓ |  
+| <img  class="imgTable"  src="/assets/img/ie9.png" />   IE9/IE10 |X |  
+
 ## Installation
 
 voici les étapes requises pour installer SmartSLA après avoir installé OpenPaas

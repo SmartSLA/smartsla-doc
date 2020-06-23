@@ -9,6 +9,21 @@ it consists of:
 - frontend app built using VueJS.
 - OpenPaaS component as backend, built using nodeJS.
 
+## Supported Browsers
+SmartSLA uses vue CLI version 3 ,you don't have to add  polyfills to support Internet EXplorer 11 and Safari 9/10 .
+It's automatically generated for you
+
+
+| Browsers        | Supported           |
+| ------------- |:-------------:| -----:|
+| <img  class="imgTable"  src="/assets/img/chrome.jpeg" />    Chrome     | ✓ |
+| <img  class="imgTable"  src="/assets/img/firefox.png" />  Firefox     | ✓| 
+| <img  class="imgTable"  src="/assets/img/safari.jpeg" />   Safari  10+  | ✓ | 
+| <img  class="imgTable"  src="/assets/img/edge.png" />   Edge | ✓ |  
+| <img  class="imgTable"  src="/assets/img/ie11.png" />   IE11 | ✓ |  
+| <img  class="imgTable"  src="/assets/img/ie9.png" />   IE9/IE10 |X |  
+
+
 ## Installation
 
 here are the steps required to install SmartSLA after you have installed OpenPaas
