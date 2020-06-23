@@ -28,9 +28,6 @@ It's automatically generated for you
 
 here are the steps required to install SmartSLA after you have installed OpenPaas
 
-
-
-
 ### 1. install the backend component
 
   `$ESN_PATH` is your openpaas installation path
@@ -245,10 +242,6 @@ here are the steps required to install SmartSLA after you have installed OpenPaa
 |                       |      Delete     |                                    |                  X                 |     X    |         |       ✓       |        X       |
 |                       |                 |                                    |                                    |          |         |               |                |
 |        Profile        | Get own profile |                                    |                  ✓                 |     ✓    |         |       ✓       |        ✓       |
-
-
-
-
 
 <div align="center" class="footer">
   <img src="/assets/img/linagora.png" />
