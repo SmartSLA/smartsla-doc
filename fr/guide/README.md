@@ -160,7 +160,7 @@ voici les étapes requises pour installer SmartSLA après avoir installé OpenPa
 
   ![SmartSLA guides](/assets/img/smartsla_fr_playlist.png)
 
-#### [Playlist SmartSLA : les tutos](https://www.youtube.com/playlist?list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
+#### [Playlist SmartSLA - FR](https://www.youtube.com/playlist?list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
   - [Tuto 1 SmartSLA : Connexion à la solution et présentation de l'ergonomie de SmartSLA](https://www.youtube.com/watch?v=EjxUVHhaQis&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
   - [Tuto 2 SmartSLA : Fonctionnalités disponibles pour les experts en charge du support](https://www.youtube.com/watch?v=tGEGEUGX0bw&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
   - [Tuto 3 SmartSLA : Présentation des fonctionnalités disponibles pour les experts en charge du support](https://www.youtube.com/watch?v=zIhoOgzASQ4&list=PLJxEmdZvbh8HgeiCFbgVNvvM_j-pMDrk1)
