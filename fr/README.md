@@ -17,23 +17,35 @@ heroImage: /assets/img/SmartSLA_fr.png
   <div class="feature">
     <h2> COMMUNAUTÉ </h2>
     <p>
-    <a href="https://github.com/SmartSLA/smartsla-frontend/issues">Signaler un problème</a>
+    <a href="https://github.com/SmartSLA/smartsla-frontend/issues" target="_blank">Signaler un problème</a>
     </p>
     <p>
-    <a href="https://forum.open-paas.org/">Forums</a>
+    <a href="https://forum.open-paas.org/" target="_blank">Forums</a>
     </p>
   </div>
   <div class="feature">
     <h2>LICENCE ET ACCORDS</h2>
     <p>
-    <a href="/assets/SmartSla-CLA-FR.pdf">Accord de contribution</a>
+    <a href="/assets/SmartSla-CLA-FR.pdf" target="_blank">Accord de contribution</a>
     </p>
     <p>
-    <a href="https://github.com/SmartSLA/smartsla-doc/blob/master/LICENSE">Licence AGPL V3</a>
+    <a href="https://github.com/SmartSLA/smartsla-doc/blob/master/LICENSE" target="_blank">Licence AGPL V3</a>
+    </p>
+  </div>
+  <div class="feature">
+    <h2>ENTREPRISE - LINAGORA</h2>
+    <p>
+    <a href="https://linagora.com/" target="_blank">À propos</a>
+    </p>
+    <p>
+    <a href="mailto:contact@smartsla.org" target="_blank">Contact</a>
+    </p>
+    <p>
+    <a href="http://08000linux.com" target="_blank">OSSA : Open Source Software Assurance</a>
     </p>
   </div>
 </div>
 <div class="footer">
-<img src="/assets/img/linagora.png" />
-<p>© SmartSLA - Développé et supporté par Linagora, 2019-2020.</p>
+<a href="https://linagora.com" target="_blank"><img src="/assets/img/linagora.png" /></a>
+<p>© SmartSLA - Développé et supporté par Linagora, 2019-2021.</p>
 </div>
