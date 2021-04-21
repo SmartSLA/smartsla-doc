@@ -1,6 +1,7 @@
 module.exports = {
   base: "/",
   title: "SmartSLA",
+  plugins: ['@vuepress/back-to-top'],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
