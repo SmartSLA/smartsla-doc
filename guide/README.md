@@ -165,6 +165,22 @@ here are the steps required to install SmartSLA after you have installed OpenPaa
   email: admin@open-paas.org
   password: secret
   ```
+### Tutorial video
+
+  ![SmartSLA guides](/assets/img/smartsla_fr_playlist.png)
+
+#### [Playlist SmartSLA - EN](https://www.youtube.com/watch?v=y-PmKXIS5kY&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR)
+  - [Tutorial 1: Login SmartSLA and design presentation](https://www.youtube.com/watch?v=-1Md71y-i9A&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=3&t=0s)
+  - [Tutorial 2: Expert's profile features](https://www.youtube.com/watch?v=mZjCd1Nj35M&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=8)
+  - [Tutorial 3: Create a customer and a support contract](https://www.youtube.com/watch?v=07ukLVmUDt4&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=4&t=0s)
+  - [Tutorial 4: How to add a software within the scope of a contract](https://www.youtube.com/watch?v=fIBfbw7Ht4w&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=5&t=0s)
+  - [Tutorial 5: How to set up the service-level agreement of a contract](https://www.youtube.com/watch?v=Raat91zoNTg&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=6&t=0s)
+  - [Tutorial 6: How to add a software to the list](https://www.youtube.com/watch?v=3t-DxVFl37s&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=7&t=0s)
+  - [Tutorial 7: How to create an anomaly ticket by client](https://www.youtube.com/watch?v=CvooAen_Yt8&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=8&t=0s)
+  - [Tutorial 8: How to assign and handle/process a ticket by an helpdesk expert](https://www.youtube.com/watch?v=efXo0JNJRvs&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=9&t=0s)
+  - [Tutorial 9: How to process a ticket and resolve it by providing a patch](https://www.youtube.com/watch?v=ZTQ4lprvLjE&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=10&t=0s))
+  - [Tutorial 10: Closing a ticket by the client](https://www.youtube.com/watch?v=y-PmKXIS5kY&list=PLJxEmdZvbh8EDccHde_1sqE7In5_W0rMR&index=11&t=0s)
+
 ### before starting
 
 #### Creating a Software, Client and Contract
