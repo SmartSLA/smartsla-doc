@@ -260,6 +260,6 @@ here are the steps required to install SmartSLA after you have installed OpenPaa
 |        Profile        | Get own profile |                                    |                  ✓                 |     ✓    |         |       ✓       |        ✓       |
 
 <div align="center" class="footer">
-  <img src="/assets/img/linagora.png" />
-  <p>© SmartSLA - Developed and supported by Linagora, 2019-2020.</p>
+  <a href="https://linagora.com" target="_blank"><img src="/assets/img/linagora.png" /></a>
+  <p>© SmartSLA - Developed and supported by Linagora, 2019-2021.</p>
 </div>

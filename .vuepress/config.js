@@ -1,11 +1,13 @@
 module.exports = {
   base: "/",
   title: "SmartSLA",
+  plugins: ['@vuepress/back-to-top'],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/SmartSLA" }
+      { text: "GitHub", link: "https://github.com/SmartSLA" },
+      { text: "Contact", link: "mailto:contact@smartsla.org"}
     ],
     sidebar: "auto",
     locales: {
@@ -18,7 +20,8 @@ module.exports = {
         nav: [
           { text: "Acceuil", link: "/fr/" },
           { text: "Guide", link: "/fr/guide/" },
-          { text: "GitHub", link: "https://github.com/SmartSLA" }
+          { text: "GitHub", link: "https://github.com/SmartSLA" },
+          { text: "Contact", link: "mailto:contact@smartsla.org"}
         ]
       }
     },

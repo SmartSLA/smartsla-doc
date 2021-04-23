@@ -12,3 +12,5 @@ deploy_docs:
   script:
     - npm install
     - sh deploy.sh
+  tags:
+    - docker
