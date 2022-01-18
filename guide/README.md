@@ -113,7 +113,8 @@ here are the steps required to install SmartSLA after you have installed OpenPaa
             "surveyId": 491487,
             "apiUrl": "http://limesurvey.smartsla.local/index.php/admin/remotecontrol/",
             "username": "admin",
-            "password": "password"
+            "password": "password",
+            "limesurveyUrl": 'http://limesurvey.smartsla.local/'
           }
         }
       ]

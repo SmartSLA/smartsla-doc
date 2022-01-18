@@ -110,7 +110,8 @@ voici les étapes requises pour installer SmartSLA après avoir installé OpenPa
             "surveyId": 491487,
             "apiUrl": "http://limesurvey.smartsla.local/index.php/admin/remotecontrol/",
             "username": "admin",
-            "password": "password"
+            "password": "password",
+            "limesurveyUrl": 'http://limesurvey.smartsla.local/'
           }
         }
       ]
