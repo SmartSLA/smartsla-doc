@@ -19,9 +19,6 @@ heroImage: /assets/img/SmartSLA_fr.png
     <p>
     <a href="https://github.com/SmartSLA/smartsla-frontend/issues" target="_blank">Signaler un problème</a>
     </p>
-    <p>
-    <a href="https://forum.open-paas.org/" target="_blank">Forums</a>
-    </p>
   </div>
   <div class="feature">
     <h2>LICENCE ET ACCORDS</h2>
@@ -47,5 +44,5 @@ heroImage: /assets/img/SmartSLA_fr.png
 </div>
 <div class="footer">
 <a href="https://linagora.com" target="_blank"><img src="/assets/img/linagora.png" /></a>
-<p>© SmartSLA - Développé et supporté par Linagora, 2019-2021.</p>
+<p>© SmartSLA - Développé et supporté par Linagora, 2019-2022.</p>
 </div>
